@@ -1,1 +1,1 @@
-# Solution to the "Trends-in-Startups" project on Codeacademy
+# Solution to "Trends-in-Startups" project on Codeacademy
